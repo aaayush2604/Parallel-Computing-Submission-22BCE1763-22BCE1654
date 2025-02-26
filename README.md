@@ -52,5 +52,5 @@ Each image undergoes the following transformations:
 
 ## 4. Training CNN for Classification  
 
-Run the  Notebook (`processed10.ipynb`) for training the CNN model:  
+Run the  Notebook (`processed10.ipynb`) in the Classifier Folder for training and testing the CNN model:  
 
