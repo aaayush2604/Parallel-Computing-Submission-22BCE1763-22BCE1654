@@ -28,7 +28,7 @@ Ensure the following libraries are installed before running the project:
 To install the required Python libraries, run:  
 ```bash
 pip install numpy matplotlib tensorflow keras scikit-learn
-
+```
 
 ## 3. Image Processing  
 
