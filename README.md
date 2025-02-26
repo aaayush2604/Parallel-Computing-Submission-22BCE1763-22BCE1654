@@ -33,7 +33,7 @@ pip install numpy matplotlib tensorflow keras scikit-learn
 ## 3. Image Processing  
 
 ### 3.1 Load Image Dataset  
-- **Download our Dataset**: [Click Here for Dataset](#) *(Taken from the ISIC Dataset)*  
+- **Download our Dataset**: [Click Here for Dataset](#https://app.roboflow.com/aayush-k-fabwani/parallel-computing-project/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) *(Taken from the ISIC Dataset)*  
 - **Store images in a folder** (e.g., `melanomaDataset/melanoma_cancer_dataset/`).  
 - **Create an empty folder** called `outputDataset/` for storing the processed images.  
 
@@ -52,6 +52,5 @@ Each image undergoes the following transformations:
 
 ## 4. Training CNN for Classification  
 
-Run the Jupyter Notebook (`processed10.ipynb`) for training the CNN model:  
-```bash
-jupyter notebook processed10.ipynb
+Run the  Notebook (`processed10.ipynb`) for training the CNN model:  
+
